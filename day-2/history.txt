@@ -1,0 +1,154 @@
+    1  pwd
+    2  mkdir day-1
+    3  cd day-1
+    4  pwd
+    5  cd ..
+    6  pwd
+    7  ls
+    8  cd day-1
+    9  pwd
+   10  cd ..
+   11  cd day-1
+   12  pwd
+   13  cd d:
+   14  pwd
+   15  ls 
+   16  cd g:
+   17  ls
+   18  ls -l
+   19  cd c:
+   20  cd c:
+   21  cd c:
+   22  cd C:/Users/Geetha Prathyusha/Desktop/python django/day-1
+   23  cd C:/Users/Geetha Prathyusha/Desktop/python django/day-1
+   24  pwd
+   25  cd ..
+   26  cd c:
+   27  pwd
+   28  cd C:/Users/Geetha Prathyusha/Desktop/python django/day-1
+   29  pwd
+   30  cd C:\Users\Geetha Prathyusha\Desktop\python django\day-1
+   31  clear
+   32  cd ..
+   33  rmdir day-1/
+   34  rmdir day-1
+   35  mkdir day-1
+   36  mkdir day
+   37  cd c:
+   38  cd desktop
+   39  cd desktop:
+   40  cd C:\Users\Geetha Prathyusha\Desktop\python django\day-1
+   41  rmdir day-1
+   42  mkdir day-1
+   43  ls
+   44  cd day-1
+   45  cd ..
+   46  pwd
+   47  touch file.txt
+   48  ls
+   49  touch file.py
+   50  ls
+   51  touch file.cpp
+   52  ls
+   53  touch file.java
+   54  echo "hello good morning"
+   55  echo "hello good morning" >> file.txt
+   56  cat file.txt
+   57  echo "{1..10}"
+   58  echo {1..10}
+   59  echo {1..1000}
+   60  touch file{1..10}.txt
+   61  ls
+   62  touch file{1..10}.cpp
+   63  touch file{1..10}.java
+   64  touch file{1..10}.py
+   65  rm file{1..5}.py 
+   66  rm file{1..5}.txt  file{5..8}.cpp 
+   67  rm *.txt
+   68  rm *
+   69  rmdir day-1
+   70  clear
+   71  touch mycommands.txt
+   72  history
+   73  ls
+   74  cat mycommands.txt >> history
+   75  touch mycommands.txt >> history
+   76  touch myfile.txt >> history
+   77  cat myfile.txt
+   78  touch myfile.txt >> history
+   79  rm *
+   80  ls
+   81  mkdir day-2
+   82  ls
+   83  mkdir jksbjhdbkjnbkdnk
+   84  ls
+   85  rmdir jk 
+   86  cd day-2
+   87  pwd
+   88  nano demo.txt
+   89  ls
+   90  cat demo.text
+   91  cat demo.txt
+   92  nano source.txt
+   93  cat source.txt
+   94  touch source.txt
+   95  touch destination.txt
+   96  ls
+   97  cp source.txt destination.txt
+   98  cat destination.txt
+   99  cat myfile.txt
+  100  cat destination.txt >>myfile.txt
+  101  ls
+  102  cat myfile.txt
+  103  ls
+  104  mkdir source
+  105  mkdir destination
+  106  mv *.txt source
+  107  ls
+  108  cd source/
+  109  cd ..
+  110  mv source destination
+  111  ls
+  112  rm -r destination 
+  113  ls
+  114  cd ..
+  115  ls
+  116  git init
+  117  git config --global user.name "geetha"
+  118  git config user.name
+  119  git config --global user.email "geethathirakala@gmail.com"
+  120  git config user.email
+  121  touch demo.csv
+  122  ls
+  123  git status
+  124  git add --a
+  125  git status
+  126  touch mydata.txt 
+  127  ls
+  128  git status
+  129  git add mydata.txt
+  130  git status
+  131  git config --global user.name "geetha"
+  132  git config user.name
+  133  git config --global user.email "geethathirakala@gmail.com"
+  134  git config user.email 
+  135  ls
+  136  git status
+  137  git add --a
+  138  git status
+  139  git config --global user.email "geethathirakala2002@gmail.com"
+  140  git config user.email 
+  141  git status
+  142  git commit -m "Files and folders are added"
+  143  git remote add apssdc https://github.com/readytoshare//APSSDC-Django-Batch-1.git
+  144  git remote -v
+  145  git push -u apssdc master
+  146  git push -u apssdc master
+  147  git commit -m "files and folders are added"
+  148  git remote add apssdc https://github.com/geethaprathyusha15/python-django.git
+  149  git remote add geetha https://github.com/geethaprathyusha15/python-django.git
+  150  git remote -v
+  151  git push -u geetha master
+  152  ls
+  153  cd day-2
+  154  history >> history.txt
